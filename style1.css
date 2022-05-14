@@ -1,0 +1,45 @@
+body {
+    font-family: sans-serif;}
+    
+     main h1{
+      text-align:center;
+    color: blue;
+    background-color:ghostwhite ;
+    
+    }
+       header{
+             height: 70px;
+             background-color: grey;
+         }
+
+    header img{
+        height: 70px;
+        width:70px;
+           border-radius: 50px; 
+            }
+         
+          p{
+             font-size: 10px;
+         }
+         main li{
+             font-size: 16px;
+         }
+          main img{
+              height: 250px;
+              width: 250px;
+              margin-left: 300px;
+          }
+
+footer {
+     height: 70px;
+             background-color: grey;
+}
+
+footer a{
+    text-decoration: none;
+    color: beige;
+    font-size: 20px;
+    border: 3px solid beige;
+    margin-left: 250px;
+    padding: 5px;
+}
