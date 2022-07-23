@@ -1,0 +1,77 @@
+<html>
+    <head>
+        <title>Ukraine for Australia</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body> <nav>
+            <a class="nav-link" href="#about">about us</a>
+            <a class="nav-link" href="#catalog">what do we have</a>
+            <a class="nav-link" href="#comment">comments</a>
+            <a class="nav-link" href="#address">address</a>
+             </nav>
+
+        <header>
+            
+            <img class="logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/800px-Flag_of_Ukraine.svg.png">
+          <h1> Ukraine clothing for Australia </h1>
+          <img class="logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/255px-Flag_of_Australia_%28converted%29.svg.png">
+            
+        </header>
+       
+       
+        <main>
+            <h1 id="about">about us</h1>
+            <section class="info">
+                <article class="post">
+                    <h2>Like you, we've been watching the news every day absolutely shocked by the events unfolding in Ukraine. We wanted to show our support for those affected by war. We've launched this campaign to show support & collect money for efforts to support the Ukrainian people during this extremely tough time. We may be on the other side of the earth, but that doesn't mean Australians don't care. We stand with you Ukraine.</h2>
+                    <img class="post-img" src="https://image.shutterstock.com/image-vector/ukrainian-australian-crossed-flags-ukraine-260nw-630898328.jpg" width="200px" height="200px"/>
+                
+                </article>
+                <img class="post-img2" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQITGtDkvSr59lp5wE0S1xGnDUdZHqrt2ePVw&usqp=CAU" width="400px">
+                
+              <p class="post-text"></p>
+                 </section>   
+                  <h1 id="catalog">what do we have</h1>
+ <section class="catalog">
+                     <br>
+                 <article class="post">
+                    <img class="post-img" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8LwcY5OoAjU5pHfdgE1r0_NXnKcKlA8xekg&usqp=CAU" width="330px" height="300px"/>
+                <a class="article-but" href="https://www.etsy.com/au/market/ukrainian_hat">Hats</a>
+                </article>
+                <article class="post">
+
+                    <img class="post-img" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqvcEYeD6RuOIoJgUAUKcnrWKkBb2f7GWMDA&usqp=CAU" width="400px" height="300px"/>
+                    <p class="post-text"></p>
+                    <a class="article-but" href="https://www.etsy.com/au/market/ukrainian_shirt">T-shirts</a>
+                      </article>
+                <article class="post">
+                    <img class="post-img" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIJhkEj41qjDhJ8VJx9gAg9QD3tKOdTR75kQ&usqp=CAU" width="400px" height="300px"/>
+                <a class="article-but" href="https://www.etsy.com/au/market/ukrainian_pants">Pants</a>
+                </article>
+                </section>
+
+                <h1 id="comment"> comments</h1>
+           
+         
+            
+            <a class="social" href=""><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY2bDmuG7Hwl1jKFUPfxk5aUgKN7f_dElEGA&usqp=CAU" width="50px" height="50px"></a>
+            <h2> Amanda</h2>
+            <p><b>There is a sort of romantic narrative ascribed to Australia, and many other western nations that they are melting pots, nations where many differently colored threads that create a vibrant,colorful tapestry. There is this legacy of immigrants sharing valuable traditions, diversifying and strengthening the country as a whole.</b></p>
+            <a class="social" href=""><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY2bDmuG7Hwl1jKFUPfxk5aUgKN7f_dElEGA&usqp=CAU" width="50px" height="50px"></a>
+            <h2> Sasha</h2>
+            <p><b> this is where it is important to understand the marked difference between Assimilation and Integration.</b></p>
+            
+        </main>
+        <footer>
+            <div class="contacts">
+                <h1 id="address"> address</h1>
+                <p class="footer-text"><span class="address">map:</span> Nevile St 1,<br/> Bentli EAst  29/2</p>
+                
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3147.3132229237654!2d145.04886321506604!3d-37.92311244808087!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad66be24754b25b%3A0xfa2e058e362a755c!2s1%20Neville%20St%2C%20Bentleigh%20East%20VIC%203165%2C%20Australia!5e0!3m2!1sen!2sua!4v1658395827965!5m2!1sen!2sua" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+            </div>
+            <div class="footer-logo">
+                
+            </div>
+        </footer>
+    </body>
+</html>
