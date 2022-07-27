@@ -11,6 +11,7 @@ header {
     padding: 15px;
     margin-bottom: 20px;
     background-color:#00D4C6 ;
+    width:100%;
 }
  .logo{
      height: 75px;
@@ -104,6 +105,7 @@ footer {
     align-items: center;
     padding: 30px 30px 20px 45px;
     background-color: lightblue ;
+    width:100%;
 }
 
 .footer-text {
